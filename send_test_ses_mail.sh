@@ -6,7 +6,7 @@ SMTP_PORT=465
 USERNAME="" # Replace with your SMTP username
 PASSWORD="" # Replace with your SMTP password
 FROM="" # Replace with your mail
-TO="" Replace with your mail
+TO="" # Replace with your mail
 SUBJECT="Test Email from Bash"
 BODY="This is a test email sent from a bash script."
 
